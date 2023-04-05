@@ -1,0 +1,14 @@
+# macOS Desktop Service Store files
+.DS_Store*
+
+# private data
+data/chats/*
+*.numbers
+Icon*
+.vscode/*
+
+# CSV files
+*.csv
+
+# jupyter checkpoints
+.ipynb_checkpoints/*
