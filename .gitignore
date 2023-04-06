@@ -7,8 +7,9 @@ data/chats/*
 Icon*
 .vscode/*
 
-# CSV files
+# CSV and JSON files
 *.csv
+*.json
 
 # jupyter checkpoints
 .ipynb_checkpoints/*
